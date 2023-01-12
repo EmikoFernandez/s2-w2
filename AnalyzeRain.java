@@ -76,8 +76,4 @@ public class AnalyzeRain {
         return count;
     }
 
-
-    public static void main(String[] args) {
-        new AnalyzeRainKey();
-    }
 }
