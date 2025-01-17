@@ -72,8 +72,8 @@ public class AnalyzeRain {
     }
 
     //TASK #6
-    //WITHOUT processing neighbors and using the 
-    //enhanced for loop ==> for(Day d: year)
+    //- Use an enhanced for-looop -- for(Day d: year)
+    //- DO NOT USE a process neighbors algorithm
     //return the number of times in a year that rains
     //Here is an example of what this task and #5 should return:
     // 6 days of rain in a row with and you want to know how many three-day runs there are: 
