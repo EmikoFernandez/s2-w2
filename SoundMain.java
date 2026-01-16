@@ -1,6 +1,8 @@
 public class SoundMain{
 
     public static void main(String[] args){
-        new Sound();
+        Sound s = new Sound();
+        //s.amplify(10);
+        s.normalize();
     }
 }
